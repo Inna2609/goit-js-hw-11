@@ -1,0 +1,15 @@
+.header {
+    position: fixed;
+    width: 100%;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: rgb(68, 168, 90);
+}
+
+.search-form {
+    padding: 15px;
+}
